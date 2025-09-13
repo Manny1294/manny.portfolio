@@ -4,9 +4,10 @@ html {
 }
 
 body {
-  font-family: "Playpen Sans", cursive;
+  font-family: "monserrat, sans-serif";
   margin: 0;
 }
+
 
 .container {
   padding: 0px 15px;
@@ -28,13 +29,11 @@ body {
   align-items: center;
 }
 
-#design {
-  color: rgb(25, 165, 142);
-}
 
-.designer {
+
+.logo {
   margin: 0%;
-  font-size: 20px;
+  font-size: 26px;
 }
 
 .home-text {
